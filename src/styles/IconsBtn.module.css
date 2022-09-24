@@ -1,0 +1,50 @@
+.dataShow
+{
+    text-align: center;
+}
+.ContainerHolder
+{
+    background-color: #2C2E31;
+    height:300px;
+    text-align: center;
+
+}
+.Heading
+{
+    color: white;
+    font-size:50px;
+  
+}
+
+
+.formHolder
+{
+    background-color:#F9F9F9;
+    text-align: center;
+    justify-content: center;
+    width:70%;
+    height:180px;
+    border-bottom:1px solid gainsboro;
+    margin-left:15%;
+    margin-top:8%;
+    position: absolute;
+
+   
+}
+ .formHolder img 
+{
+    border-radius:50%;
+    margin-top:10%;
+    border:1px solid gainsboro;
+}
+.detailsShowContainer
+{ 
+    width:70%;
+    margin-left:15%;
+    margin-top:25%;
+    position: absolute;
+}
+.detailsShowContainer p
+{
+    color: gray;
+}
