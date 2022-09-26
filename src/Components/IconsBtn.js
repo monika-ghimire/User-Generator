@@ -15,7 +15,7 @@ export default function IconsBtn() {
         setData(resp.data.results[0]) 
         dispatch(storeImgUrl(data.picture.large))
       });
-    },[1]);
+    });
 
   
 
